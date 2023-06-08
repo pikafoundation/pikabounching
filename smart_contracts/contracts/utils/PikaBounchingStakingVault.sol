@@ -6,7 +6,6 @@ import "../interfaces/IPikaBounchingNft.sol";
 import "../interfaces/IPikaBounchingToken.sol";
 import "@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
-import "@openzeppelin/contracts/utils/math/SafeMath.sol";
 
 contract PikaBounchingStakingVault is Ownable, IERC721Receiver {
     //--------------------------------------------------------------------

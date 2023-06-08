@@ -1,0 +1,20 @@
+smart_contracts/node_modules
+front-end/node_modules
+front-end/node_modules.old
+coverage
+coverage.json
+typechain
+typechain-types
+
+data-deploy_1F2572a.txt
+data-deploy0x8ff1e1a5D265bB25554280E407A98dC90F0C0c90.txt
+smart_contracts/artifacts
+front-end/src/artifacts
+front-end/src/artifacts-old
+smart_contracts/cache
+#env file 
+smart_contracts/.env
+# Hardhat files
+cache
+artifacts
+
